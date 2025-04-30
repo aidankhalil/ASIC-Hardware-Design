@@ -1,5 +1,4 @@
 EDUCATIONAL USE DISCLAIMER
 
 This project was created as coursework for the University of South Florida and is provided for educational and archival purposes only.
-
 Reuse in academic settings where this material is still in use may violate course policies.
