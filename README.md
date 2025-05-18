@@ -1,7 +1,5 @@
 # 4x4 Multiplier in Cadence Virtuoso
 
-[Click HERE for Project Report](./final_product/finalProject/nxn%20multiplier%20asic%20design%20report.pdf)
-
 
 
 ## Full Adder Reference (Textbook Image)
