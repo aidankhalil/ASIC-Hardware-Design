@@ -1,11 +1,28 @@
-# 4x4 Multiplier in Cadence Virtuoso
+# ASIC Hardware Design – 4x4 Array Multiplier
+
+**Duration:** Nov 2024 – Dec 2024
+
+## Overview
+Designed a 4x4-bit multiplier in Virtuoso using custom layout and logic gates, implementing industry-standard full-adder arrays with bit-sliced logic.
+
+## Features
+- Performed waveform validation across several rising-edge test vectors, verifying output propagation through delay cycles under realistic clock inputs.
+- Integrated serial input/output via shift-register emulation to simulate test/debug mode, ensuring design testability and waveform reproducibility.
+
+## Technologies & Skills Used
+ASIC design, Cadence Virtuoso, waveform validation, digital logic, clock timing, testbench emulation, hardware engineering
+
+## Setup Instructions
+1. Open in Virtuoso or compatible simulation software
+2. Load the layout and testbench
+3. Simulate and observe waveform output
 
 
 
-## Full Adder Reference (Textbook Image)
+## Full Adder Reference (Standard FA Layout View)
 ![Full Adder Reference](https://github.com/user-attachments/assets/54c2e8d4-6c03-45fa-9ef6-a7209aa6d3b6)
 
-## NxN Array Multiplier Reference (Textbook Image)
+## NxN Array Multiplier Reference
 ![Array_Multiplier_Reference](https://github.com/user-attachments/assets/85f14be7-59e1-49b7-8429-6b27de124c81)
 
 ## Final Layout
