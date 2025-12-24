@@ -1,6 +1,6 @@
 # ASIC Hardware Design – 4x4 Array Multiplier
 
-**Duration:** Nov 2024 – Dec 2024
+**Duration:** Nov 2024 – Dec 2024 (~1 month)
 
 ## Overview
 Designed a 4x4-bit multiplier in Virtuoso using custom layout and logic gates, implementing industry-standard full-adder arrays with bit-sliced logic.
